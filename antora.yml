@@ -1,6 +1,6 @@
 name: user-doc
 title: Jenkins User Documentation
-version: '1.0'
+version: '1.5'
 start_page: user-doc.adoc
 asciidoc:
   attributes:
