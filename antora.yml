@@ -1,0 +1,5 @@
+name: user-doc
+title: User documentation
+version: 1.0
+nav:
+- modules/v1.0/nav.adoc
