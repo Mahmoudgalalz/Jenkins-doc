@@ -1,6 +1,7 @@
 name: user-doc
 title: Jenkins User Documentation
 version: '1.0'
+start_page: index.adoc
 asciidoc:
   attributes:
     source-language: asciidoc@
