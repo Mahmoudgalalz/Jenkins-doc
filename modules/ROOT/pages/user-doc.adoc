@@ -1,4 +1,4 @@
-= Jenkins v*{page-component-display-version}*
+= Jenkins v{page-component-display-version}
 Welcome to the Jenkins user documentation - for people wanting to _use_
 Jenkins's existing functionality and plugin features.
 
