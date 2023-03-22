@@ -1,4 +1,3 @@
-
 = User Handbook Overview
 :navtitle: User Hand Book
 This page provides an overview of the documentation in the Jenkins User
