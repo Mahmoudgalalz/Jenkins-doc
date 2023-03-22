@@ -4,7 +4,6 @@ title: Jenkins User Documentation
 section: doc
 ---
 
-
 Welcome to the Jenkins user documentation - for people wanting to _use_
 Jenkins's existing functionality and plugin features.
 
@@ -47,4 +46,9 @@ Jenkins is a highly extensible product whose functionality can be extended
 through the installation of plugins.
 
 
+
+'''
+++++
+include:: partials/_feedback-footer.html[]
+++++
 
