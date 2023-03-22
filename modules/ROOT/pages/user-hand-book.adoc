@@ -1,14 +1,6 @@
----
-layout: chapter
-description:
-author:
-email: jenkinsci-users@googlegroups.com
-sectanchors:
-toc: left
-title: User Hand Book
----
-= User Handbook Overview
 
+= User Handbook Overview
+:navtitle: User Hand Book
 This page provides an overview of the documentation in the Jenkins User
 Handbook.
 
