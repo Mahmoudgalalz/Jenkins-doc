@@ -1,15 +1,12 @@
 ---
 layout: chapter
----
-ifdef::backend-html5[]
 :description:
 :author:
 :email: jenkinsci-users@googlegroups.com
 :sectanchors:
 :toc: left
 :navtitle: User Hand Book
-endif::[]
-
+---
 == User Handbook Overview
 
 This page provides an overview of the documentation in the Jenkins User
