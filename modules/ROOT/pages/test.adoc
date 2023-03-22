@@ -1,0 +1,6 @@
+= New version
+:navtitle: Hello Test
+
+
+This page is a test for versions antora
+
