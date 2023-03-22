@@ -4,7 +4,6 @@ title: Jenkins User Documentation
 section: doc
 ---
 
-
 Welcome to the Jenkins user documentation - for people wanting to _use_
 Jenkins's existing functionality and plugin features.
 
@@ -48,4 +47,8 @@ through the installation of plugins.
 
 
 
+'''
+++++
+include:: partials/_feedback-footer.html[]
+++++
 

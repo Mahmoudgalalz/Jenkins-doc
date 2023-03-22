@@ -1,6 +1,7 @@
 name: user-doc
 title: Jenkins User Documentation
-version: 1.0.0
+version: 1.0
+start_page: index.adoc
 nav:
 - modules/v1.0/nav.adoc
 - modules/ROOT/nav.adoc
