@@ -1,4 +1,4 @@
-
+= Jenkins
 Welcome to the Jenkins user documentation - for people wanting to _use_
 Jenkins's existing functionality and plugin features.
 
@@ -40,3 +40,4 @@ refer to the
 Jenkins is a highly extensible product whose functionality can be extended
 through the installation of plugins.
 
+* xref: feedback-form.adoc[]
